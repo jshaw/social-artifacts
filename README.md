@@ -4,7 +4,7 @@ Social Artifacts is a look at experiences that are shared through digital medium
 
 We all share our experiences on Social Media but we often overlook how the experences we share become altered with the loss of context and all of the sensory information you were exposed to. Your followers understaning is often a simplier understanding of what you experienced because they did not have access to the same sensory information you did.
 
-![image](/assets/SocialArtifacts.JPEG?raw=true =500x)
+![image](/assets/SocialArtifacts.JPEG?raw=true)
 
 
 ### Documentation
